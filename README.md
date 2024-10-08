@@ -1,3 +1,5 @@
+<h3>POWER BY STLP </h3>
+
 # SMS-BOMB
 Free and Unlimited best SMS BOMBER Tools
 <center><h3>🖤Assalamu Alaikum🖤</h3></center>
@@ -14,19 +16,10 @@ pkg install git -y
 pkg install python -y
 pip3 install requests
 cd && rm -rf SMS-BOMB
-git clone https://github.com/STLP-TEAM/SMS-BOMB
-cd SMS-BOMB
+git clone https://github.com/Black-Hacker462/Bomber.git
+cd Bomber
 python run.py
 ```
-
-
-<h3>SINGLE COMMAND</h3>
-
-```
-pkg update -y;pkg upgrade -y;pkg install git -y;pkg install python -y;pip3 install requests;cd && rm -rf SMS-BOMB;git clone https://github.com/STLP-TEAM/SMS-BOMB;cd SMS-BOMB;python run.py
-```
-
-
 <h3>DEMO SS</h3>
 <center><img src="ss2.jpg" alt="STLP-TEAM" height="300" width="1500"></img></center></br>
 
